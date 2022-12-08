@@ -16,7 +16,7 @@ This link contains a Testing Application
 
 ## My Document
 This link contains a Testing Application
-- [loginPy: Testing GUI](https://github.com/kisahtegar/loginPy)
+- [learning: learning about Logic and other](https://github.com/kisahtegar/Python/tree/master/learning)
 <!-- - []() -->
 
 <!-- <img src="https://github.com/kisahtegar//blob/master/preview/1.jpg" width="200"> -->
