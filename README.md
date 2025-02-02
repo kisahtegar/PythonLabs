@@ -1,30 +1,48 @@
-<a href="https://www.python.org">
-  <h1 align="center">
-    <picture>
-      <img alt="Flutter" src="https://www.python.org/static/img/python-logo.png">
-    </picture>
-  </h1>
-</a>
+<p align="center">
+   <a href="https://www.python.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="200">
+   </a>
+</p>
 
-## Documentation
-This documentation contains some link: widget, testing application, logic, and other. 
+<p align="center">
+   <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/Python-Dynamic%20Typing-blue" alt="Python Badge">
+   </a>
+   <a href="https://fastapi.tiangolo.com/">
+      <img src="https://img.shields.io/badge/FastAPI-High%20Performance-green" alt="FastAPI Badge">
+   </a>
+   <a href="https://pandas.pydata.org/">
+      <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-orange" alt="Pandas Badge">
+   </a>
+</p>
 
-## Project
-This link contains a project.
-- [CSGO-Hack-Tools: Script for csgo](https://github.com/kisahtegar/CSGO-Hack-Tools)
-- [McDonalds: McDonalds system managements](https://github.com/kisahtegar/McDonalds)
-- [Growtopia-Auto-Break: auto break block AFK for Growtopia](https://github.com/kisahtegar/Growtopia-Auto-Break)
-- [Growtopia-Auto-Harvest-Plant: auto harvest AFK for Growtopia](https://github.com/kisahtegar/Growtopia-Auto-Harvest-Plant)
-<!-- - []() -->
+---
 
-## Testing Application
-This link contains a Testing Application
+## 🧪 Overview
+
+**PythonLabs** is a personal repository for experimenting with Python, exploring new concepts, and testing various applications. This space is dedicated to learning, building small projects, and sharing useful links related to testing applications, portfolio work, and more.
+
+---
+
+## 🚀 Projects
+
+Here are some of the projects included in this repository:
+
+- [CSGO-Hack-Tools: Script for CSGO](https://github.com/kisahtegar/CSGO-Hack-Tools)
+- [McDonalds: McDonald's System Management](https://github.com/kisahtegar/McDonalds)
+- [Growtopia-Auto-Break: Auto Break Block AFK for Growtopia](https://github.com/kisahtegar/Growtopia-Auto-Break)
+- [Growtopia-Auto-Harvest-Plant: Auto Harvest AFK for Growtopia](https://github.com/kisahtegar/Growtopia-Auto-Harvest-Plant)
+
+---
+
+## 🛠️ Testing
+
 - [loginPy: Testing GUI](https://github.com/kisahtegar/loginPy)
-<!-- - []() -->
 
-## My Document
-This link contains a Testing Application
-- [learning: learning about Logic and other](https://github.com/kisahtegar/Python/tree/master/learning)
-<!-- - []() -->
+---
 
-<!-- <img src="https://github.com/kisahtegar//blob/master/preview/1.jpg" width="200"> -->
+## ✨ About Us
+
+- 💻 All of my projects are available at **[github.com/kisahtegar](https://github.com/kisahtegar)**
+- 📫 How to reach me **<code.kisahtegar@gmail.com>**
+- 📄 Know about my experiences **[kisahcode.web.app](https://kisahcode.web.app)**
