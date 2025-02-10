@@ -43,6 +43,27 @@ else:
 
 ---
 
+## Ternary Operators
+
+Ternary operators include conditional expressions in Python. Conditional expressions are a form of expression that aims to evaluate conditions and return values ​​based on the evaluation results. You can assume that these ternary operators are one-liner versions of if and else.
+
+```py
+lulus = True
+print("selamat") if lulus else print("perbaiki") # selamat
+```
+
+## Ternary Tuples
+
+The program code above displays the text message "Selamat, Anda lulus!" if the condition evaluates to true and displays the text message  "Perbaiki, Anda belum lulus." if the condition evaluates to false.
+
+```py
+lulus = True
+kelulusan = ("Perbaiki, Anda belum lulus.","Selamat, Anda lulus!")[lulus]
+print(kelulusan) # Selamat, Anda lulus!
+```
+
+---
+
 ## Challenges
 
 ## Challenge 1: Simple if Statement

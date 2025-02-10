@@ -50,3 +50,25 @@ cube = [
 print(cube) # Output: [[[1, 2, 3], [4, 5, 6], [7, 8, 9]], [[10, 11, 12], [13, 14, 15], [16, 17, 18]], [[19, 20, 21], [22, 23, 24], [25, 26, 27]]]
 
 ```
+
+## Numpy
+
+Using the same matrix, namely "[[1, 2, 3], [4, 5, 6], [7, 8, 9]]" produces a different amount of memory for each method. If we use NumPy, the memory used for all elements is 72. However, if we use lists, the memory used for all elements is 240.
+
+```py
+import numpy 
+import sys
+
+var_list= [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+var_array= numpy.array([[1, 2, 3], [4, 5, 6], [7, 8 ,9]])
+
+print("Ukuran keseluruhan elemen list dalam bytes = ",sys.getsizeof(var_list)*len(var_list))
+print("Ukuran keseluruhan elemen NumPy dalam bytes = ", var_array.size*var_array.itemsize)
+
+
+"""
+Output:
+Ukuran keseluruhan elemen list dalam bytes =  240
+Ukuran keseluruhan elemen NumPy dalam bytes =  72
+"""
+```
